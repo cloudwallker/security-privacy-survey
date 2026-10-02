@@ -10,7 +10,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://arxiv.org/abs/2608.19680"
+    "source_url": "https://arxiv.org/abs/2608.19680",
+    "discussion_path": "论文解读/01-程序分析与漏洞检测.md#paper-p001"
   },
   {
     "paper_id": "P002",
@@ -21,7 +22,8 @@
       "安全与隐私"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/2575-8411.2026.00071"
+    "source_url": "https://doi.org/10.1109/2575-8411.2026.00071",
+    "discussion_path": "论文解读/02-隐私保护与安全计算.md#paper-p002"
   },
   {
     "paper_id": "P003",
@@ -35,7 +37,8 @@
       "边缘计算、网络与数字孪生"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://doi.org/10.1109/infocom59046.2026.11571688"
+    "source_url": "https://doi.org/10.1109/infocom59046.2026.11571688",
+    "discussion_path": "论文解读/02-隐私保护与安全计算.md#paper-p003"
   },
   {
     "paper_id": "P005",
@@ -48,7 +51,8 @@
       "边缘计算、网络与数字孪生"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tsc.2026.3671484"
+    "source_url": "https://doi.org/10.1109/tsc.2026.3671484",
+    "discussion_path": "论文解读/02-隐私保护与安全计算.md#paper-p005"
   },
   {
     "paper_id": "P006",
@@ -60,7 +64,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://doi.org/10.1109/tifs.2026.3694661"
+    "source_url": "https://doi.org/10.1109/tifs.2026.3694661",
+    "discussion_path": "论文解读/01-程序分析与漏洞检测.md#paper-p006"
   },
   {
     "paper_id": "P007",
@@ -71,7 +76,8 @@
       "安全与隐私"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tsc.2025.3616516"
+    "source_url": "https://doi.org/10.1109/tsc.2025.3616516",
+    "discussion_path": "论文解读/02-隐私保护与安全计算.md#paper-p007"
   },
   {
     "paper_id": "P008",
@@ -83,7 +89,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tse.2025.3548730"
+    "source_url": "https://doi.org/10.1109/tse.2025.3548730",
+    "discussion_path": "论文解读/01-程序分析与漏洞检测.md#paper-p008"
   },
   {
     "paper_id": "P009",
@@ -95,7 +102,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tdsc.2025.3547143"
+    "source_url": "https://doi.org/10.1109/tdsc.2025.3547143",
+    "discussion_path": "论文解读/05-身份认证与可信系统.md#paper-p009"
   },
   {
     "paper_id": "P011",
@@ -107,7 +115,8 @@
       "可信机器学习"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tifs.2025.3555794"
+    "source_url": "https://doi.org/10.1109/tifs.2025.3555794",
+    "discussion_path": "论文解读/02-隐私保护与安全计算.md#paper-p011"
   },
   {
     "paper_id": "P012",
@@ -118,7 +127,8 @@
       "安全与隐私"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/msn63567.2024.00108"
+    "source_url": "https://doi.org/10.1109/msn63567.2024.00108",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p012"
   },
   {
     "paper_id": "P013",
@@ -130,7 +140,8 @@
       "可信机器学习"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1007/978-981-96-0567-5_18"
+    "source_url": "https://doi.org/10.1007/978-981-96-0567-5_18",
+    "discussion_path": "论文解读/02-隐私保护与安全计算.md#paper-p013"
   },
   {
     "paper_id": "P015",
@@ -144,7 +155,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://doi.org/10.1145/3664647.3681379"
+    "source_url": "https://doi.org/10.1145/3664647.3681379",
+    "discussion_path": "论文解读/04-模型攻击与防御.md#paper-p015"
   },
   {
     "paper_id": "P016",
@@ -157,7 +169,8 @@
       "生物医学AI"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/02-隐私保护与安全计算.md#paper-p016"
   },
   {
     "paper_id": "P017",
@@ -169,7 +182,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/05-身份认证与可信系统.md#paper-p017"
   },
   {
     "paper_id": "P018",
@@ -180,7 +194,8 @@
       "安全与隐私"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/02-隐私保护与安全计算.md#paper-p018"
   },
   {
     "paper_id": "P019",
@@ -192,7 +207,8 @@
       "边缘计算、网络与数字孪生"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/02-隐私保护与安全计算.md#paper-p019"
   },
   {
     "paper_id": "P020",
@@ -204,7 +220,8 @@
       "边缘计算、网络与数字孪生"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/03-网络威胁与流量分析.md#paper-p020"
   },
   {
     "paper_id": "P021",
@@ -216,7 +233,8 @@
       "可信机器学习"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/04-模型攻击与防御.md#paper-p021"
   },
   {
     "paper_id": "P023",
@@ -227,7 +245,8 @@
       "安全与隐私"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p023"
   },
   {
     "paper_id": "P024",
@@ -239,7 +258,8 @@
       "边缘计算、网络与数字孪生"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p024"
   },
   {
     "paper_id": "P025",
@@ -251,7 +271,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p025"
   },
   {
     "paper_id": "P026",
@@ -264,7 +285,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p026"
   },
   {
     "paper_id": "P028",
@@ -276,7 +298,8 @@
       "可信机器学习"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/02-隐私保护与安全计算.md#paper-p028"
   },
   {
     "paper_id": "P029",
@@ -288,7 +311,8 @@
       "可信机器学习"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/04-模型攻击与防御.md#paper-p029"
   },
   {
     "paper_id": "P030",
@@ -299,7 +323,8 @@
       "安全与隐私"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p030"
   },
   {
     "paper_id": "P031",
@@ -312,7 +337,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/04-模型攻击与防御.md#paper-p031"
   },
   {
     "paper_id": "P032",
@@ -324,7 +350,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p032"
   },
   {
     "paper_id": "P034",
@@ -338,7 +365,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p034"
   },
   {
     "paper_id": "P035",
@@ -351,7 +379,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p035"
   },
   {
     "paper_id": "P036",
@@ -364,7 +393,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/04-模型攻击与防御.md#paper-p036"
   },
   {
     "paper_id": "P037",
@@ -376,7 +406,8 @@
       "边缘计算、网络与数字孪生"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/05-身份认证与可信系统.md#paper-p037"
   },
   {
     "paper_id": "P038",
@@ -388,7 +419,8 @@
       "边缘计算、网络与数字孪生"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p038"
   },
   {
     "paper_id": "P040",
@@ -400,7 +432,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p040"
   },
   {
     "paper_id": "P041",
@@ -412,7 +445,8 @@
       "边缘计算、网络与数字孪生"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p041"
   },
   {
     "paper_id": "P042",
@@ -424,7 +458,8 @@
       "边缘计算、网络与数字孪生"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/03-网络威胁与流量分析.md#paper-p042"
   },
   {
     "paper_id": "P043",
@@ -437,7 +472,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p043"
   },
   {
     "paper_id": "P044",
@@ -451,7 +487,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p044"
   },
   {
     "paper_id": "P046",
@@ -463,7 +500,8 @@
       "可信机器学习"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/02-隐私保护与安全计算.md#paper-p046"
   },
   {
     "paper_id": "P047",
@@ -475,7 +513,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/02-隐私保护与安全计算.md#paper-p047"
   },
   {
     "paper_id": "P048",
@@ -488,7 +527,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/04-模型攻击与防御.md#paper-p048"
   },
   {
     "paper_id": "P049",
@@ -501,7 +541,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/04-模型攻击与防御.md#paper-p049"
   },
   {
     "paper_id": "P050",
@@ -513,7 +554,8 @@
       "边缘计算、网络与数字孪生"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p050"
   },
   {
     "paper_id": "P052",
@@ -526,7 +568,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://arxiv.org/abs/2608.25851v1"
+    "source_url": "https://arxiv.org/abs/2608.25851v1",
+    "discussion_path": "论文解读/04-模型攻击与防御.md#paper-p052"
   },
   {
     "paper_id": "P055",
@@ -539,7 +582,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2606.29451v1"
+    "source_url": "https://arxiv.org/abs/2606.29451v1",
+    "discussion_path": "论文解读/04-模型攻击与防御.md#paper-p055"
   },
   {
     "paper_id": "P061",
@@ -553,7 +597,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2602.19418v1"
+    "source_url": "https://arxiv.org/abs/2602.19418v1",
+    "discussion_path": "论文解读/01-程序分析与漏洞检测.md#paper-p061"
   },
   {
     "paper_id": "P063",
@@ -566,7 +611,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2511.09064v1"
+    "source_url": "https://arxiv.org/abs/2511.09064v1",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p063"
   },
   {
     "paper_id": "P068",
@@ -579,7 +625,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2508.14015v1"
+    "source_url": "https://arxiv.org/abs/2508.14015v1",
+    "discussion_path": "论文解读/04-模型攻击与防御.md#paper-p068"
   },
   {
     "paper_id": "P072",
@@ -593,7 +640,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2505.17440v2"
+    "source_url": "https://arxiv.org/abs/2505.17440v2",
+    "discussion_path": "论文解读/01-程序分析与漏洞检测.md#paper-p072"
   },
   {
     "paper_id": "P076",
@@ -607,7 +655,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2503.13962v1"
+    "source_url": "https://arxiv.org/abs/2503.13962v1",
+    "discussion_path": "论文解读/04-模型攻击与防御.md#paper-p076"
   },
   {
     "paper_id": "P080",
@@ -620,7 +669,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://scholars.cityu.edu.hk/en/publications/gradient-perturbation-guidance-for-boosting-sparse-adversarial-at/"
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/gradient-perturbation-guidance-for-boosting-sparse-adversarial-at/",
+    "discussion_path": "论文解读/04-模型攻击与防御.md#paper-p080"
   },
   {
     "paper_id": "P082",
@@ -633,7 +683,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2408.08502v2"
+    "source_url": "https://arxiv.org/abs/2408.08502v2",
+    "discussion_path": "论文解读/04-模型攻击与防御.md#paper-p082"
   },
   {
     "paper_id": "P136",
@@ -645,7 +696,8 @@
       "可信机器学习"
     ],
     "evidence_level": "fulltext",
-    "source_url": "http://arxiv.org/abs/2603.01874"
+    "source_url": "http://arxiv.org/abs/2603.01874",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p136"
   },
   {
     "paper_id": "P137",
@@ -657,7 +709,8 @@
       "可信机器学习"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://doi.org/10.23919/tma66427.2025.11096997"
+    "source_url": "https://doi.org/10.23919/tma66427.2025.11096997",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p137"
   },
   {
     "paper_id": "P138",
@@ -669,7 +722,8 @@
       "边缘计算、网络与数字孪生"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/icde65448.2025.00321"
+    "source_url": "https://doi.org/10.1109/icde65448.2025.00321",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p138"
   },
   {
     "paper_id": "P140",
@@ -681,7 +735,8 @@
       "可信机器学习"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/noms69089.2026.11668365"
+    "source_url": "https://doi.org/10.1109/noms69089.2026.11668365",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p140"
   },
   {
     "paper_id": "P148",
@@ -694,7 +749,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://arxiv.org/abs/2403.10570"
+    "source_url": "https://arxiv.org/abs/2403.10570",
+    "discussion_path": "论文解读/03-网络威胁与流量分析.md#paper-p148"
   },
   {
     "paper_id": "P151",
@@ -706,7 +762,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://arxiv.org/abs/2402.12499"
+    "source_url": "https://arxiv.org/abs/2402.12499",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p151"
   },
   {
     "paper_id": "P154",
@@ -719,7 +776,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://link.springer.com/chapter/10.1007/978-3-031-53510-9_2"
+    "source_url": "https://link.springer.com/chapter/10.1007/978-3-031-53510-9_2",
+    "discussion_path": "论文解读/03-网络威胁与流量分析.md#paper-p154"
   },
   {
     "paper_id": "P157",
@@ -732,7 +790,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p157"
   },
   {
     "paper_id": "P165",
@@ -746,7 +805,8 @@
       "生物医学AI"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/02-隐私保护与安全计算.md#paper-p165"
   },
   {
     "paper_id": "P182",
@@ -759,7 +819,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/02-隐私保护与安全计算.md#paper-p182"
   },
   {
     "paper_id": "P184",
@@ -772,7 +833,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p184"
   },
   {
     "paper_id": "P215",
@@ -785,7 +847,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-模型攻击与防御.md#paper-p215"
   },
   {
     "paper_id": "P230",
@@ -798,7 +861,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p230"
   },
   {
     "paper_id": "P262",
@@ -810,7 +874,8 @@
       "推荐、搜索与个性化"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-隐私保护与安全计算.md#paper-p262"
   },
   {
     "paper_id": "P275",
@@ -823,7 +888,8 @@
       "边缘计算、网络与数字孪生"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-隐私保护与安全计算.md#paper-p275"
   },
   {
     "paper_id": "P279",
@@ -836,7 +902,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-安全交叉应用与基础方法.md#paper-p279"
   },
   {
     "paper_id": "P288",
@@ -849,7 +916,8 @@
       "边缘计算、网络与数字孪生"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-隐私保护与安全计算.md#paper-p288"
   },
   {
     "paper_id": "P324",
@@ -861,7 +929,8 @@
       "可信机器学习"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-隐私保护与安全计算.md#paper-p324"
   },
   {
     "paper_id": "P336",
@@ -874,7 +943,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-隐私保护与安全计算.md#paper-p336"
   },
   {
     "paper_id": "P350",
@@ -887,6 +957,7 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tpami.2026.3704679"
+    "source_url": "https://doi.org/10.1109/tpami.2026.3704679",
+    "discussion_path": "论文解读/02-隐私保护与安全计算.md#paper-p350"
   }
 ]
