@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" role="img" aria-labelledby="title desc">
+<title id="title">Security and Privacy literature learning map</title>
+<desc id="desc">Concept diagram of the review workflow: questions, equations, evidence, and papers.</desc>
+<rect width="1000" height="520" rx="24" fill="#f8fafc"/>
+<rect x="34" y="36" width="8" height="76" rx="4" fill="#2563eb"/>
+<g font-family="Arial, sans-serif">
+<text x="62" y="68" font-size="32" font-weight="700" fill="#0f172a">Security and Privacy</text>
+<text x="62" y="103" font-size="18" fill="#475569">A guided literature review with methods, equations and evidence</text>
+<rect x="34" y="150" width="458" height="146" rx="16" fill="#ffffff" stroke="#cbd5e1"/>
+<circle cx="70" cy="186" r="18" fill="#2563eb"/>
+<text x="70" y="193" font-size="20" text-anchor="middle" fill="#ffffff">1</text>
+<text x="102" y="193" font-size="22" font-weight="700" fill="#0f172a">Research questions</text>
+<text x="58" y="236" font-size="17" fill="#475569">Define inputs, outputs and assumptions</text>
+<rect x="508" y="150" width="458" height="146" rx="16" fill="#ffffff" stroke="#cbd5e1"/>
+<circle cx="544" cy="186" r="18" fill="#2563eb"/>
+<text x="544" y="193" font-size="20" text-anchor="middle" fill="#ffffff">2</text>
+<text x="576" y="193" font-size="22" font-weight="700" fill="#0f172a">Methods and equations</text>
+<text x="532" y="236" font-size="17" fill="#475569">Connect notation to a worked example</text>
+<rect x="34" y="316" width="458" height="146" rx="16" fill="#ffffff" stroke="#cbd5e1"/>
+<circle cx="70" cy="352" r="18" fill="#2563eb"/>
+<text x="70" y="359" font-size="20" text-anchor="middle" fill="#ffffff">3</text>
+<text x="102" y="359" font-size="22" font-weight="700" fill="#0f172a">Evidence and limits</text>
+<text x="58" y="402" font-size="17" fill="#475569">Check versions, baselines and guarantees</text>
+<rect x="508" y="316" width="458" height="146" rx="16" fill="#ffffff" stroke="#cbd5e1"/>
+<circle cx="544" cy="352" r="18" fill="#2563eb"/>
+<text x="544" y="359" font-size="20" text-anchor="middle" fill="#ffffff">4</text>
+<text x="576" y="359" font-size="22" font-weight="700" fill="#0f172a">Representative papers</text>
+<text x="532" y="402" font-size="17" fill="#475569">Follow verified sources and reading cards</text>
+<text x="34" y="503" font-size="16" fill="#64748b">Concept diagram | Chinese study notes | Evidence cutoff: 2026-10-02</text></g></svg>
